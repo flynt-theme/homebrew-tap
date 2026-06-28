@@ -7,18 +7,18 @@ class Strike < Formula
   on_macos do
     on_intel do
       url "https://github.com/flynt-theme/strike/releases/download/v0.1.1/strike-darwin-amd64"
-      sha256 "5ae3fed2d1badaee3d4caa05e6cb449820b00ebd0942f16e58f1ce0d88d3ebd8"
+      sha256 "57fc89be49eb15d205d27de3d3e8fb5cb11c354593b05b6223a5dc34d35100ac"
     end
     on_arm do
       url "https://github.com/flynt-theme/strike/releases/download/v0.1.1/strike-darwin-arm64"
-      sha256 "3c7f85666c3a9cd31495df35bb7440fc1570204c39340c8fe75e625237fcd9b9"
+      sha256 "bf33f68e80d7a9edb09c18edb32b6ed151a281151450b24d82fc505dfb7285ef"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/flynt-theme/strike/releases/download/v0.1.1/strike-linux-amd64"
-      sha256 "1200fa4f3f9bd57cfd345c363b322cbfa4855e02d9516c06fbee719d6bfda996"
+      sha256 "51f43fcc072688806c528855aa520f81ebbc3eecb09e408ea2661c47bc64fab9"
     end
   end
 
